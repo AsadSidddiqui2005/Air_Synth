@@ -29,3 +29,5 @@ There's also an `intro.html` page if you want a quick walkthrough first.
 ## That's all
 
 No install, no setup. Just open the file and start playing.
+
+Website: https://air-synth.vercel.app
